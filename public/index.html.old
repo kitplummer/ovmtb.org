@@ -1,0 +1,55 @@
+<html>
+<head>
+	<title>Oro Valley High School Mountain Bike Club</title>
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+	<center>
+		<font size=+2>
+			First race - September 29th 2013 @ Old Tucson Studios</br>
+			Next ride - July 14th, FIP @ Rancho Vistoso/Fast Rhino parking lot - 5:30P</br>
+      Next skills session - July 17th, FIP @ Casas Church (east parking lot) - 5:30P
+      </br></br>
+      </font>
+		<img src="images/ovmtb_block.png"></br></br>
+		<font size=+4>Oro Valley High School Mountain Bike Club</font></br></br>
+		<table>
+			<tr>
+				<td>
+					<a href="http://www.spiritofhowdy.org">
+						<img src="images/howdy1.png" height="130" border="0">
+					</a>
+				</td>
+        <td width=30px></td>
+				<td>
+					<a href="http://www.arizonamtb.org">
+						<img src="images/az_nice_block.png" width="500" border="0">
+					</a>
+				</td>
+			</tr>
+		</table>
+	</br></br>
+		<table>
+		<tr>
+			<td><font size="+1">
+				Contact me for registration details:</br>
+				<a href="mailto:coach@ovmtb.org">coach@ovmtb.org</a> | 520.261.5609
+			</font>
+			</td>
+			<td> |  </td> 
+			<td>
+			    <a href="https://www.facebook.com/ovmtb">
+			      <img src="images/facebookicon.png" width="200">
+			    </a>
+			</td>
+		</tr>
+	</table>
+      </br></br>
+	</br>
+		
+    
+  	</center>
+    
+</body>
+</html>

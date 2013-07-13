@@ -1,0 +1,119 @@
+/*reset*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {margin: 0;padding: 0;border: 0;outline: 0;font-size: 100%;vertical-align: baseline;background: transparent;}
+body {line-height: 1; }
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after,
+q:before, q:after {content: '';content: none;}
+:focus {outline: 0;}
+ins {text-decoration: none;}
+del {text-decoration: line-through;}
+table {border-collapse: collapse;border-spacing: 0;}
+
+.clearer { height: 0px; overflow: hidden; margin: 0px; clear: both; }
+
+/* Link */
+a { color:#c26306; text-decoration:none;}
+a:link, a:visited { color: #c26306; text-decoration: none; }
+a:active, a:hover { color: #b80707; text-decoration: none; }
+
+h2 { font-family: Century Gothic, Arial; font-weight:lighter; font-size:50px;color: #FF9900;margin: 20px 0 30px 0; letter-spacing: -1.5px;}
+h3 {font-family: Century Gothic, Arial; font-weight:lighter; font-size:35px;color:#f0a108;margin: 20px 0 30px 0;letter-spacing:-1px;}
+h4 {font-family: Century Gothic, Arial, serif; font-weight: lighter; font-size:30px; color: #333; margin: 20px 0 30px 0; text-align:center; 
+line-height:60px; letter-spacing: 2px;}
+h5 {font-family: Century Gothic, Arial; font-weight:lighter; font-size:85px;color: #333; text-align:center; letter-spacing: -1.5px;}
+p {line-height:24px; font-size:13px;margin:0 0 10px 0;}
+#portfolio p {line-height:30px; font-size:24px;margin:0 0 30px 0;}
+
+body {background:#FFFFFF;font:12px "Century Gothic", arial, Helvetica, sans-serif;color:#444;}
+.container {width:960px;margin: 0 auto;}
+.logo {width:812px; margin:20px 0 0 70px; padding:0 0 30px 0;}
+
+/*navigation*/
+.TopNavigation {height:60px;background:url(../images/bg_nav.gif) no-repeat top center;}
+.social {width:120px; height:60px;float:right; padding: 15px 0 0 0;}
+ul.nav {width:960px;margin: 0 0 0 270px; width: 480px;}
+ul.nav li {float:left; display:inline; margin:20px 45px 0 0; font-size:15px; font-weight: normal; font-family:"Century Gothic", arial, Helvetica;}
+ul.nav a {color:#666;text-decoration:none;}
+ul.nav a:hover {color:#FF9900;}
+ul.nav .active {color:#FF9900;}
+
+
+#containerAbout {width:960px;}
+.rightAbout {float:left;width:240px;margin:0 0 0 30px;}
+.leftAbout {float:left;width:660px;background:url(../images/caiden_top.jpg) no-repeat center right;}
+.leftAbout p {padding:0 300px 0 0; font-size:18px;}
+#skills {width:960px;height:80px;background:url(../images/bg.skills.gif) no-repeat top center;margin:20px 0 50px 0;}
+#skills ul {margin: 0 0 0 270px;list-style:none;padding-top:30px;}
+#skills li {display:inline;margin:40px 40px 0 0;font-size:16px;font-family:"Century Gothic", arial, Helvetica;}
+
+/*twitter*/
+ul#twitter_update_list li {list-style-type:none;padding: 0 0 15px 0;color:#000;margin:0;}
+ul#twitter_update_list .divisor {height:1px;border-bottom:1px solid #b1b1b1;}
+ul#twitter_update_list .data {color:#6b6c69;}
+ul#twitter_update_list .data:before {content:"#[";}
+ul#twitter_update_list .data:after {content:"]";}
+ul#twitter_update_list a:link, ul#twitter_update_list a:visited {color:#ab4b05;text-decoration:none;}
+ul#twitter_update_list a:hover, ul#twitter_update_list a:active {color:#ab4b05;text-decoration:underline;}
+
+.quote {background:url(../images/quote.gif) no-repeat top left; padding: 20px 0 0 60px; border-top:1px dashed #b1b1b1;}
+
+/*contact form*/
+#form {width:570px;margin: 20px 0 40px 0;float:left;}
+.notification_error{border: 1px solid #f1dfc5;height: auto;color: #ca5702;width: 457px;padding: 10px 10px 10px 60px;background:url(../images/icons/erro.png) no-repeat center left #fdf0dc;text-align:left;-moz-border-radius:5px;margin-bottom:10px;}
+.notification_ok{border: 1px #cbcf8e solid;height: auto;width: 90%;padding: 10px;background: #f5f9fd;text-align: center;-moz-border-radius: 5px;margin-bottom:10px;}
+label  { width: 100px; margin: 5px; float: left; text-align:left;}
+textarea{width:400px;margin: 5px;padding: 5px; float: left;border: 1px solid #999999; border-top-color: #CCCCCC; border-left-color: #CCCCCC; color: #333333; font: 11px Verdana, Helvetica, Arial, sans-serif;-moz-border-radius: 3px;}
+.button {margin: 0 0 0 5px; padding-left:150px;}
+br { clear: left; }
+.textbox {width:400px;height:30px;margin: 5px;padding: 5px; float: left;border: 1px solid #999999; border-top-color: #CCCCCC; border-left-color: #CCCCCC; color: #333333; font: 11px Verdana, Helvetica, Arial, sans-serif;-moz-border-radius: 3px;}
+.textbox2 {height:140px;}
+
+/*contact info*/
+#contactInfo {float:left; height:350; width:350px;margin:20px 0 0 0;}
+.bolder {font-weight: normal;font-size:24px;letter-spacing:-1.0px;line-height:30px;}
+
+p.footer { font-family:Century Gothic, arial, Helvetica; font-weight:normal; color: #999999; text-align: center; font-size:40px;}
+
+/* gallery */
+
+.row {
+	padding: 0px 0px 0px 0px;
+	height: 205px;
+}
+
+.box_img2 {
+	width: 232px;
+	height: 113px;
+	padding: 0px 0px 0px 0px;
+	float:left;
+	/*border:#666666 2px solid;*/
+}
+
+.box_razd {
+	width: 19px;
+	height: 70px;
+	float: left;
+}
+
+.box_img2 h1 {
+	font-family: "Century Gothic", Hero, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight: 100;
+	color: #FF9900;
+	text-align: left;
+	padding: 15px 0px 15px 0px;
+}
+
+.rol_over:hover {
+
+background:url(images/rol_over_galery.png) left top no-repeat;
+}
