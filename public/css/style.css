@@ -27,7 +27,7 @@ a:active, a:hover { color: #b80707; text-decoration: none; }
 
 h2 { font-family: Century Gothic, Arial; font-weight:lighter; font-size:50px;color: #FF9900;margin: 20px 0 30px 0; letter-spacing: -1.5px;}
 h3 {font-family: Century Gothic, Arial; font-weight:lighter; font-size:35px;color:#f0a108;margin: 20px 0 30px 0;letter-spacing:-1px;}
-h4 {font-family: Century Gothic, Arial, serif; font-weight: lighter; font-size:30px; color: #333; margin: 20px 0 30px 0; text-align:center; 
+h4 {font-family: Century Gothic, Arial, serif; font-weight: lighter; font-size:30px; color: #333; margin: 20px 0 30px 0; text-align:center;
 line-height:60px; letter-spacing: 2px;}
 h5 {font-family: Century Gothic, Arial; font-weight:lighter; font-size:85px;color: #333; text-align:center; letter-spacing: -1.5px;}
 p {line-height:24px; font-size:13px;margin:0 0 10px 0;}
@@ -49,8 +49,8 @@ ul.nav .active {color:#FF9900;}
 
 #containerAbout {width:960px;}
 .rightAbout {float:left;width:240px;margin:0 0 0 30px;}
-.leftAbout {float:left;width:660px;background:url(../images/caiden_top.jpg) no-repeat center right;}
-.leftAbout p {padding:0 300px 0 0; font-size:18px;}
+.leftAbout {float:left;width:660px;}
+.leftAbout p {padding:0 100px 0 0; font-size:18px;}
 #skills {width:960px;height:80px;background:url(../images/bg.skills.gif) no-repeat top center;margin:20px 0 50px 0;}
 #skills ul {margin: 0 0 0 270px;list-style:none;padding-top:30px;}
 #skills li {display:inline;margin:40px 40px 0 0;font-size:16px;font-family:"Century Gothic", arial, Helvetica;}

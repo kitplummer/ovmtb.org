@@ -1,4 +1,4 @@
 <?php
 // To
-define("WEBMASTER_EMAIL", 'info@dzyngiri.com');
+define("WEBMASTER_EMAIL", 'coach@ovmtb.org');
 ?>
