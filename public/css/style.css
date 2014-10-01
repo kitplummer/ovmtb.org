@@ -27,7 +27,7 @@ a:active, a:hover { color: #b80707; text-decoration: none; }
 
 h2 { font-family: Century Gothic, Arial; font-weight:lighter; font-size:50px;color: #FF9900;margin: 20px 0 30px 0; letter-spacing: -1.5px;}
 h3 {font-family: Century Gothic, Arial; font-weight:lighter; font-size:35px;color:#f0a108;margin: 20px 0 30px 0;letter-spacing:-1px;}
-h4 {font-family: Century Gothic, Arial, serif; font-weight: lighter; font-size:30px; color: #333; margin: 20px 0 30px 0; text-align:center;
+h4 {font-family: Century Gothic, Arial, serif; font-weight: lighter; font-size:30px; color: #333; margin: 20px 0 30px 0; text-align:left;
 line-height:60px; letter-spacing: 2px;}
 h5 {font-family: Century Gothic, Arial; font-weight:lighter; font-size:85px;color: #333; text-align:center; letter-spacing: -1.5px;}
 p {line-height:24px; font-size:13px;margin:0 0 10px 0;}
